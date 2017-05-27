@@ -16,3 +16,4 @@ It has features such as -
  ## Preview
 
  ![preview](docs/preview.gif)
+
